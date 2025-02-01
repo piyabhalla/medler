@@ -1,0 +1,30 @@
+     id                          name  \,name,source,prescription_required,retail_price,discounted_price,manufacturer,quantity,packaging_form,salts,true_cluster
+0   source_6-75716               dolo 1gm tablet   ,Dolo 1gm Tablet,source_6,FALSE,45.58,40.11,micro labs,10 Tablet(s) in Strip,STRIP,Paracetamol / Acetaminophen(1.0 G),10
+1   source_2-39579          dolo 1000mg infusion   ,Dolo 1000mg Infusion,source_2,TRUE,268,219.76,micro labs ltd,,,Paracetamol/Acetaminophen 1000mg,13
+2   source_7-90343            dolo 1000mg tablet   ,Dolo 1000mg Tablet,source_7,FALSE,45.58,35.1,micro labs ltd,10.0 tablets in 1 strip,,Paracetamol (1000mg),13
+3   source_1-65076       dolo 1000 mg tablet 10s   ,Dolo 1000 mg Tablet 10's,source_1,TRUE,45.5,40,micro labs ltd,10,Strip | Tablet,PARACETAMOL-1000MG,13
+4   source_1-65077  dolo 120 mg suspension 60 ml   ,Dolo 120 mg Suspension 60 ml,source_1,FALSE,40,35.2,micro labs ltd,60,Bottle | Suspension,PARACETAMOL-120MG,1
+5   source_6-75717    dolo 120mg suspension 60ml   ,Dolo 120mg Suspension 60ml,source_6,FALSE,40.32,34.27,micro labs,60ml Suspension in Bottle,BOTTLE,Paracetamol / Acetaminophen(120.0 Mg/5ml),11
+6   source_2-39580           dolo 120 suspension   ,Dolo 120 Suspension,source_2,TRUE,34.94,28.65,micro labs ltd,,,Paracetamol/Acetaminophen 120mg/5ml,11
+7    source_3-2151           dolo 156mg syp 60ml   ,DOLO 156MG SYP 60ML,source_3,FALSE,51,43.35,micro labs ltd,60,Bottle SYRUP,PARACETAMOL/ACETAMINOPHEN 156.25 MG /5ML,5
+8   source_7-90345       dolo 15625mg suspension   ,Dolo 156.25mg Suspension,source_7,FALSE,56,49.6,micro labs ltd,60.0 ml in 1 bottle,,Paracetamol (156.25mg/5ml),8
+9   source_1-65079     dolo 15625 mg syrup 60 ml   ,Dolo 156.25 mg Syrup 60 ml,source_1,FALSE,56,49.3,micro labs ltd,60,Bottle | Syrup,PARACETAMOL-156.25MG,2
+10  source_6-75718    dolo 250mg suspension 60ml   ,Dolo 250mg Suspension 60ml,source_6,FALSE,45.02,39.62,micro labs,60ml Suspension in Bottle,BOTTLE,Paracetamol / Acetaminophen(250.0 Mg),4
+11   source_3-2152           dolo 250mg syp 60ml   ,DOLO 250MG SYP 60ML,source_3,FALSE,45.02,38.27,micro labs ltd,60,Bottle SYRUP,PARACETAMOL/ACETAMINOPHEN 250 MG /5ML,6
+12  source_7-90346      dolo 250 oral suspension   ,Dolo 250 Oral Suspension,source_7,FALSE,45.02,34.2,micro labs ltd,60.0 ml in 1 bottle,,Paracetamol (250mg/5ml),9
+13  source_1-65080    dolo 250 suspension 100 ml   ,Dolo 250 Suspension 100 ml,source_1,FALSE,75,66,micro labs ltd,100,Bottle | Suspension,PARACETAMOL-250MG,3
+14  source_1-65081     dolo 250 suspension 60 ml   ,Dolo 250 Suspension 60 ml,source_1,FALSE,45,39.6,micro labs ltd,60,Bottle | Suspension,PARACETAMOL-250MG,4
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
