@@ -18,6 +18,6 @@ Compares predicted clusters with manually labeled clusters using clustering eval
 
 
 **Libraries:**
-pandas
-numpy
-scikit-learn 
+→ pandas
+→ numpy
+→ scikit-learn 
